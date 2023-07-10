@@ -1,0 +1,38 @@
+[0.011s] Invoking command in '/home/isa/ros2_ws/build/cpp_srvcli': AMENT_PREFIX_PATH=/home/isa/ros2_ws/install/tutorial_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/isa/ros2_ws/install/tutorial_interfaces:/opt/ros/iron LD_LIBRARY_PATH=/home/isa/ros2_ws/install/tutorial_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/isa/ros2_ws/install/tutorial_interfaces/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/isa/ros2_ws/build/cpp_srvcli -- -j8 -l8
+[0.030s] -- Found ament_cmake: 2.0.2 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.134s] -- Found rclcpp: 21.0.1 (/opt/ros/iron/share/rclcpp/cmake)
+[0.157s] -- Found rosidl_generator_c: 4.0.0 (/opt/ros/iron/share/rosidl_generator_c/cmake)
+[0.164s] -- Found rosidl_generator_cpp: 4.0.0 (/opt/ros/iron/share/rosidl_generator_cpp/cmake)
+[0.174s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.186s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.318s] -- Found rmw_implementation_cmake: 7.1.0 (/opt/ros/iron/share/rmw_implementation_cmake/cmake)
+[0.319s] -- Found rmw_fastrtps_cpp: 7.1.1 (/opt/ros/iron/share/rmw_fastrtps_cpp/cmake)
+[0.410s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.554s] -- Found example_interfaces: 0.10.2 (/opt/ros/iron/share/example_interfaces/cmake)
+[0.729s] -- Found tutorial_interfaces: 0.0.0 (/home/isa/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake)
+[0.899s] [31mCMake Error at CMakeLists.txt:25 (add_executable):
+[0.899s]   add_executable cannot create target "server" because another target with
+[0.899s]   the same name already exists.  The existing target is an executable created
+[0.899s]   in source directory "/home/isa/ros2_ws/src/cpp_srvcli".  See documentation
+[0.899s]   for policy CMP0002 for more details.
+[0.900s] 
+[0.900s] [0m
+[0.900s] [31mCMake Error at CMakeLists.txt:29 (add_executable):
+[0.900s]   add_executable cannot create target "client" because another target with
+[0.900s]   the same name already exists.  The existing target is an executable created
+[0.900s]   in source directory "/home/isa/ros2_ws/src/cpp_srvcli".  See documentation
+[0.900s]   for policy CMP0002 for more details.
+[0.900s] 
+[0.900s] [0m
+[0.952s] -- Found ament_lint_auto: 0.14.1 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.952s] [31mCMake Error at /opt/ros/iron/share/ament_lint_auto/cmake/ament_lint_auto-extras.cmake:18 (message):
+[0.952s]   find_package(ament_lint_auto) must be called before ament_package()
+[0.952s] Call Stack (most recent call first):
+[0.952s]   /opt/ros/iron/share/ament_lint_auto/cmake/ament_lint_autoConfig.cmake:41 (include)
+[0.952s]   CMakeLists.txt:41 (find_package)
+[0.952s] 
+[0.952s] [0m
+[0.952s] -- Configuring incomplete, errors occurred!
+[0.952s] See also "/home/isa/ros2_ws/build/cpp_srvcli/CMakeFiles/CMakeOutput.log".
+[0.957s] gmake: *** [Makefile:308: cmake_check_build_system] Error 1
+[0.959s] Invoked command in '/home/isa/ros2_ws/build/cpp_srvcli' returned '2': AMENT_PREFIX_PATH=/home/isa/ros2_ws/install/tutorial_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/isa/ros2_ws/install/tutorial_interfaces:/opt/ros/iron LD_LIBRARY_PATH=/home/isa/ros2_ws/install/tutorial_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/isa/ros2_ws/install/tutorial_interfaces/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/isa/ros2_ws/build/cpp_srvcli -- -j8 -l8

@@ -1,0 +1,47 @@
+[0.008s] Invoking command in '/home/isa/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/isa/ros2_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/isa/ros2_ws/install/cpp_pubsub
+[0.048s] -- The C compiler identification is GNU 11.3.0
+[0.088s] -- The CXX compiler identification is GNU 11.3.0
+[0.093s] -- Detecting C compiler ABI info
+[0.142s] -- Detecting C compiler ABI info - done
+[0.148s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.148s] -- Detecting C compile features
+[0.148s] -- Detecting C compile features - done
+[0.151s] -- Detecting CXX compiler ABI info
+[0.206s] -- Detecting CXX compiler ABI info - done
+[0.212s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.213s] -- Detecting CXX compile features
+[0.213s] -- Detecting CXX compile features - done
+[0.215s] -- Found ament_cmake: 2.0.2 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.334s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.393s] -- Found ament_lint_auto: 0.14.1 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.447s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.447s] -- Configured cppcheck include dirs: 
+[0.447s] -- Configured cppcheck exclude dirs and/or files: 
+[0.448s] -- Added test 'lint_cmake' to check CMake code style
+[0.448s] -- Added test 'uncrustify' to check C / C++ code style
+[0.448s] -- Configured uncrustify additional arguments: 
+[0.449s] -- Added test 'xmllint' to check XML markup files
+[0.449s] -- Configuring done
+[0.452s] -- Generating done
+[0.452s] -- Build files have been written to: /home/isa/ros2_ws/build/cpp_pubsub
+[0.456s] Invoked command in '/home/isa/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/isa/ros2_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/isa/ros2_ws/install/cpp_pubsub
+[0.458s] Invoking command in '/home/isa/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/isa/ros2_ws/build/cpp_pubsub -- -j8 -l8
+[0.482s] Invoked command in '/home/isa/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/isa/ros2_ws/build/cpp_pubsub -- -j8 -l8
+[0.503s] Invoking command in '/home/isa/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/isa/ros2_ws/build/cpp_pubsub
+[0.508s] -- Install configuration: ""
+[0.508s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[0.508s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[0.508s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[0.509s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[0.510s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[0.510s] -- Installing: /home/isa/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[0.512s] Invoked command in '/home/isa/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/isa/ros2_ws/build/cpp_pubsub

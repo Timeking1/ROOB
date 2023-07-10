@@ -1,0 +1,41 @@
+[1.756s] Invoking command in '/home/isa/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/isa/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/isa/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/isa/ros2_ws/build/examples_rclpy_executors/build
+[2.197s] running develop
+[2.197s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.198s]   warnings.warn(
+[2.198s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.199s]   warnings.warn(
+[2.199s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[2.199s]   warnings.warn(
+[2.200s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.200s]   warnings.warn(
+[2.200s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[2.200s]   warnings.warn(
+[2.212s] Invoked command in '/home/isa/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/isa/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/isa/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/isa/ros2_ws/build/examples_rclpy_executors/build
+[2.213s] Invoking command in '/home/isa/ros2_ws/src/examples/rclpy/executors': PYTHONPATH=/home/isa/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/isa/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/isa/ros2_ws/build/examples_rclpy_executors/build install --record /home/isa/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed
+[2.633s] running egg_info
+[2.634s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[2.634s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[2.635s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[2.635s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[2.635s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[2.638s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.639s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.640s] running build
+[2.640s] running build_py
+[2.640s] running install
+[2.641s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.641s]   warnings.warn(
+[2.641s] running install_lib
+[2.643s] running install_data
+[2.644s] running install_egg_info
+[2.646s] removing '/home/isa/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.18.0-py3.10.egg-info' (and everything under it)
+[2.647s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /home/isa/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.18.0-py3.10.egg-info
+[2.648s] running install_scripts
+[2.682s] Installing callback_group script to /home/isa/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.682s] Installing composed script to /home/isa/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.682s] Installing custom_callback_group script to /home/isa/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.683s] Installing custom_executor script to /home/isa/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.683s] Installing listener script to /home/isa/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.683s] Installing talker script to /home/isa/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.684s] writing list of installed files to '/home/isa/ros2_ws/build/examples_rclpy_executors/install.log'
+[2.728s] Invoked command in '/home/isa/ros2_ws/src/examples/rclpy/executors' returned '0': PYTHONPATH=/home/isa/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/isa/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/isa/ros2_ws/build/examples_rclpy_executors/build install --record /home/isa/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed

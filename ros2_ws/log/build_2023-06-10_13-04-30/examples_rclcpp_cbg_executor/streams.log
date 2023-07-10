@@ -1,0 +1,30 @@
+[0.033s] Invoking command in '/home/isa/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/isa/ros2_ws/build/examples_rclcpp_cbg_executor -- -j8 -l8
+[0.142s] [ 30%] Built target ping
+[0.142s] [ 70%] Built target ping_pong
+[0.154s] [100%] Built target pong
+[0.199s] Invoked command in '/home/isa/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/isa/ros2_ws/build/examples_rclcpp_cbg_executor -- -j8 -l8
+[0.268s] Invoking command in '/home/isa/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/isa/ros2_ws/build/examples_rclcpp_cbg_executor
+[0.290s] -- Install configuration: ""
+[0.290s] -- Execute custom install script
+[0.291s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping
+[0.297s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/pong
+[0.298s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping_pong
+[0.298s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/ping_node.hpp
+[0.298s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/pong_node.hpp
+[0.298s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_cbg_executor
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_cbg_executor
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.sh
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.dsv
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.sh
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.dsv
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.bash
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.sh
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.zsh
+[0.299s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.dsv
+[0.300s] -- Symlinking: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.dsv
+[0.309s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/packages/examples_rclcpp_cbg_executor
+[0.309s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.309s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig.cmake
+[0.309s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig-version.cmake
+[0.309s] -- Up-to-date symlink: /home/isa/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.xml
+[0.324s] Invoked command in '/home/isa/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/isa/ros2_ws/build/examples_rclcpp_cbg_executor

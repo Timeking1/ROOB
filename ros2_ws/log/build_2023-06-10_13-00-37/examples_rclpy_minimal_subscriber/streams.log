@@ -1,0 +1,54 @@
+[1.096s] Invoking command in '/home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber': PYTHONPATH=/home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build
+[1.509s] running develop
+[1.509s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.509s]   warnings.warn(
+[1.509s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.509s]   warnings.warn(
+[1.510s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.510s]   warnings.warn(
+[1.510s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.510s]   warnings.warn(
+[1.510s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.510s]   warnings.warn(
+[1.557s] Removing /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples-rclpy-minimal-subscriber.egg-link (link to .)
+[1.603s] Invoked command in '/home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber' returned '0': PYTHONPATH=/home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build
+[1.605s] Invoking command in '/home/isa/ros2_ws/src/examples/rclpy/topics/minimal_subscriber': PYTHONPATH=/home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed
+[1.862s] running egg_info
+[1.863s] writing ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[1.863s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[1.864s] writing entry points to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[1.864s] writing requirements to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[1.864s] writing top-level names to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[1.867s] reading manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.868s] writing manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.868s] running build
+[1.868s] running build_py
+[1.868s] creating /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build
+[1.868s] creating /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib
+[1.869s] creating /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[1.869s] copying examples_rclpy_minimal_subscriber/__init__.py -> /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[1.869s] copying examples_rclpy_minimal_subscriber/subscriber_member_function.py -> /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[1.869s] copying examples_rclpy_minimal_subscriber/subscriber_lambda.py -> /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[1.869s] copying examples_rclpy_minimal_subscriber/subscriber_old_school.py -> /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[1.869s] running install
+[1.870s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.870s]   warnings.warn(
+[1.870s] running install_lib
+[1.871s] creating /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[1.872s] copying /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber/__init__.py -> /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[1.872s] copying /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber/subscriber_member_function.py -> /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[1.872s] copying /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber/subscriber_lambda.py -> /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[1.872s] copying /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber/subscriber_old_school.py -> /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[1.872s] byte-compiling /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber/__init__.py to __init__.cpython-310.pyc
+[1.873s] byte-compiling /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[1.873s] byte-compiling /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber/subscriber_lambda.py to subscriber_lambda.cpython-310.pyc
+[1.874s] byte-compiling /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber/subscriber_old_school.py to subscriber_old_school.cpython-310.pyc
+[1.874s] running install_data
+[1.878s] running install_egg_info
+[1.878s] Copying ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info to /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.18.0-py3.10.egg-info
+[1.879s] running install_scripts
+[1.904s] Installing subscriber_lambda script to /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.904s] Installing subscriber_member_function script to /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.904s] Installing subscriber_old_school script to /home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.905s] writing list of installed files to '/home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log'
+[1.941s] Invoked command in '/home/isa/ros2_ws/src/examples/rclpy/topics/minimal_subscriber' returned '0': PYTHONPATH=/home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/isa/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/isa/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed

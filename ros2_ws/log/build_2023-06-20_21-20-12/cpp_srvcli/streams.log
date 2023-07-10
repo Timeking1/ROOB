@@ -1,0 +1,53 @@
+[0.007s] Invoking command in '/home/isa/ros2_ws/build/cpp_srvcli': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/isa/ros2_ws/build/cpp_srvcli -- -j8 -l8
+[0.025s] -- Found ament_cmake: 2.0.2 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.129s] -- Found rclcpp: 21.0.1 (/opt/ros/iron/share/rclcpp/cmake)
+[0.152s] -- Found rosidl_generator_c: 4.0.0 (/opt/ros/iron/share/rosidl_generator_c/cmake)
+[0.158s] -- Found rosidl_generator_cpp: 4.0.0 (/opt/ros/iron/share/rosidl_generator_cpp/cmake)
+[0.169s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.181s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.313s] -- Found rmw_implementation_cmake: 7.1.0 (/opt/ros/iron/share/rmw_implementation_cmake/cmake)
+[0.314s] -- Found rmw_fastrtps_cpp: 7.1.1 (/opt/ros/iron/share/rmw_fastrtps_cpp/cmake)
+[0.405s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.546s] -- Found example_interfaces: 0.10.2 (/opt/ros/iron/share/example_interfaces/cmake)
+[0.714s] -- Found ament_lint_auto: 0.14.1 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[0.764s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.764s] -- Configured cppcheck include dirs: 
+[0.764s] -- Configured cppcheck exclude dirs and/or files: 
+[0.765s] -- Added test 'lint_cmake' to check CMake code style
+[0.765s] -- Added test 'uncrustify' to check C / C++ code style
+[0.765s] -- Configured uncrustify additional arguments: 
+[0.766s] -- Added test 'xmllint' to check XML markup files
+[0.766s] -- Configuring done
+[0.778s] -- Generating done
+[0.780s] -- Build files have been written to: /home/isa/ros2_ws/build/cpp_srvcli
+[0.798s] [35m[1mConsolidate compiler generated dependencies of target client[0m
+[0.798s] [35m[1mConsolidate compiler generated dependencies of target server[0m
+[0.812s] [ 50%] [32mBuilding CXX object CMakeFiles/server.dir/src/add_two_ints_server.cpp.o[0m
+[0.812s] [ 50%] [32mBuilding CXX object CMakeFiles/client.dir/src/add_two_ints_client.cpp.o[0m
+[4.003s] [ 75%] [32m[1mLinking CXX executable server[0m
+[4.140s] [ 75%] Built target server
+[4.205s] [100%] [32m[1mLinking CXX executable client[0m
+[4.354s] [100%] Built target client
+[4.363s] Invoked command in '/home/isa/ros2_ws/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/isa/ros2_ws/build/cpp_srvcli -- -j8 -l8
+[4.390s] Invoking command in '/home/isa/ros2_ws/build/cpp_srvcli': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/isa/ros2_ws/build/cpp_srvcli
+[4.396s] -- Install configuration: ""
+[4.396s] -- Installing: /home/isa/ros2_ws/install/cpp_srvcli/lib/cpp_srvcli/server
+[4.397s] -- Set runtime path of "/home/isa/ros2_ws/install/cpp_srvcli/lib/cpp_srvcli/server" to ""
+[4.397s] -- Installing: /home/isa/ros2_ws/install/cpp_srvcli/lib/cpp_srvcli/client
+[4.398s] -- Set runtime path of "/home/isa/ros2_ws/install/cpp_srvcli/lib/cpp_srvcli/client" to ""
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/ament_index/resource_index/package_run_dependencies/cpp_srvcli
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/ament_index/resource_index/parent_prefix_path/cpp_srvcli
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.sh
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/environment/ament_prefix_path.dsv
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/environment/path.sh
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/environment/path.dsv
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.bash
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.sh
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.zsh
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/local_setup.dsv
+[4.399s] -- Installing: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/package.dsv
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/ament_index/resource_index/packages/cpp_srvcli
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig.cmake
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/cmake/cpp_srvcliConfig-version.cmake
+[4.399s] -- Up-to-date: /home/isa/ros2_ws/install/cpp_srvcli/share/cpp_srvcli/package.xml
+[4.401s] Invoked command in '/home/isa/ros2_ws/build/cpp_srvcli' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/isa/ros2_ws/build/cpp_srvcli
